@@ -1,0 +1,1 @@
+This is your personal AI project. It runs fully locally using Ollama models and a simple RAG pipeline over files in the data/ folder. Add your notes here to customize it.

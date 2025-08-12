@@ -1,0 +1,4 @@
+ollama>=0.2.1
+numpy>=1.26
+pypdf>=4.2.0
+tqdm>=4.66
