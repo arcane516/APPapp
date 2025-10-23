@@ -1,1 +1,8 @@
 streamlit
+audio-recorder-streamlit
+openai
+anthropic
+python-dotenv
+soundfile
+numpy
+pydub
